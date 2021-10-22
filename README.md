@@ -1,2 +1,2 @@
 # hacktoberfest_event
-Some description
+hello word
